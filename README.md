@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+This is Qingyuan23, a medical school student👨‍⚕️
+🌱 I’m currently learning about R coding to analyze my data and furnish it into beautiful graphs
 <!--
 **Qingyuan23/Qingyuan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
